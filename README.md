@@ -1,17 +1,17 @@
 # E-commerce Sales Analysis Dashboard
 
 ## Project Overview
-This project analyzes an e-commerce dataset to discover sales performance, profitability, customer behavior, and regional trends.
+This project analyzes an e-commerce dataset to identify key business insights related to revenue, sales performance, profitability, customer behavior, and regional trends.
 The project workflow:
 - Data cleaning (Python)
 - Data analysis (SQL using DuckDB)
 - Data visualization (Power BI)
 
 ## Tools & Technologies
-- Python (pandas) : data cleaning and preprocessing
-- DuckDB (SQL): analytical queries
-- Power BI:interactive dashboard
-- GitHub: project documentation and version control
+- Python (pandas) 
+- DuckDB (SQL)
+- Power BI
+- GitHub&Git
 
 ## Dataset
 Superstore dataset including:
@@ -22,6 +22,13 @@ Superstore dataset including:
 - Categories
 - Regions
 - Shipping modes
+
+## Data Preparation
+Performed data cleaning using Python:
+- Removed duplicates
+- Handled missing values
+- Standardized column names
+- Converted data types
 
 ## Key Analysis
 - Sales by Category
@@ -44,12 +51,21 @@ Sales show an overall upward trend over time
   * Total Orders
 - Interactive filters (Region, Segment, Category)
 - Top N analysis (Top 10 customers)
-- Sales trend over time
+- Sales trend over time (monthly/yearly)
+- Category and regional performance analysis
 
 ## Key Insights
-- Revenue is concentrated in a few categories and products
-- Profitability varies significantly across categories
-- Regional performance differs, requiring targeted strategies
+- Technology is the highest-performing category in terms of sales
+- Furniture and Office Supplies show lower profitability despite strong sales
+- West and East regions outperform others in total sales
+- A small group of customers contributes a large portion of revenue
+- Sales show an overall upward trend over time
+
+## Business Recommendations
+- Focus on high-performing categories such as Technology
+- Improve profit margins in Furniture and Office Supplies
+- Strengthen operations in high-performing regions
+- Implement loyalty strategies for top customers
 
 ##  Project Structure
  1. dashboard image
