@@ -52,11 +52,12 @@ Sales show an overall upward trend over time
 - Regional performance differs, requiring targeted strategies
 
 ##  Project Structure
- 1. raw data
- 2. python scripts using sql and duckdb library
- 3. outputs(exported CSV results)
- 4. Power BI dashboard
- 5. README file
+ 1. dashboard image
+ 2. exported CSV files
+ 3. E-commerce_Sales_duckdb.pbix
+ 4. README.md
+ 5. Superstore.csv
+ 6. project.py
 
 ## Dashboard Preview
 
@@ -65,4 +66,4 @@ Sales show an overall upward trend over time
 
 
 ## Author:
-Data Analyst/ BI Analyst Mouna Al-Nasser
+ Mouna Al-Nasser Data Analyst| BI Analyst
