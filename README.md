@@ -9,7 +9,7 @@ The project workflow:
 
 ## Tools & Technologies
 - Python (pandas) 
-- DuckDB (SQL)
+- DuckDB (SQL)/DuckDB was used as a local analytical database to simulate modern data warehouse workflows
 - Power BI
 - GitHub&Git
 
